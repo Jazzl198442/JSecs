@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @3 Type=(Name=SECSStreamItem GenericParameterCount=1))" Category="CodeSchema_Class" Bounds="0,0,180.873333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="SECSStreamItem&lt;T&gt;" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSStreamItem&lt;T&gt;" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/SECSItem.cs StartLineNumber=660 StartCharacterOffset=17 EndLineNumber=660 EndCharacterOffset=31)" />
+    <Node Id="(@1 @3 Type=(Name=SECSValueItem GenericParameterCount=1))" Category="CodeSchema_Class" Bounds="0,0,172.353333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="SECSValueItem&lt;T&gt;" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSValueItem&lt;T&gt;" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/SECSItem.cs StartLineNumber=314 StartCharacterOffset=17 EndLineNumber=314 EndCharacterOffset=30)" />
+    <Node Id="(@1 @3 Type=A)" Category="CodeSchema_Class" Bounds="0,0,69.4433333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="A" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="A" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/A.cs StartLineNumber=7 StartCharacterOffset=17 EndLineNumber=7 EndCharacterOffset=18)" />
+    <Node Id="(@1 @3 Type=B)" Category="CodeSchema_Class" Bounds="0,0,68.53,25" CodeSchemaProperty_IsPublic="True" CommonLabel="B" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="B" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/B.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=18)" />
+    <Node Id="(@1 @3 Type=Bool)" Category="CodeSchema_Class" Bounds="0,0,86.9833333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="Bool" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="Bool" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/Bool.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=21)" />
+    <Node Id="(@1 @3 Type=F4)" Category="CodeSchema_Class" Bounds="0,0,74.41,25" CodeSchemaProperty_IsPublic="True" CommonLabel="F4" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="F4" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/F4.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=F8)" Category="CodeSchema_Class" Bounds="0,0,74.41,25" CodeSchemaProperty_IsPublic="True" CommonLabel="F8" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="F8" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/F8.cs StartLineNumber=7 StartCharacterOffset=17 EndLineNumber=7 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=I1)" Category="CodeSchema_Class" Bounds="0,0,71.5633333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="I1" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="I1" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/I1.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=I2)" Category="CodeSchema_Class" Bounds="0,0,71.5633333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="I2" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="I2" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/I2.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=I4)" Category="CodeSchema_Class" Bounds="0,0,71.5633333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="I4" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="I4" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/I4.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=I8)" Category="CodeSchema_Class" Bounds="0,0,71.5633333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="I8" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="I8" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/I8.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=JIS)" Category="CodeSchema_Class" Bounds="0,0,76.2066666666667,25" CodeSchemaProperty_IsInternal="True" CommonLabel="JIS" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="JIS" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/JIS.cs StartLineNumber=6 StartCharacterOffset=10 EndLineNumber=6 EndCharacterOffset=13)" />
+    <Node Id="(@1 @3 Type=L)" Category="CodeSchema_Class" Bounds="0,0,67.1566666666667,25" CodeSchemaProperty_IsPublic="True" CommonLabel="L" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="L" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/L.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=18)" />
+    <Node Id="(@1 @3 Type=SECSDecoder)" Category="CodeSchema_Class" Bounds="0,0,138.143333333333,25" CodeSchemaProperty_IsInternal="True" CommonLabel="SECSDecoder" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSDecoder" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/SECSDecoder.cs StartLineNumber=7 StartCharacterOffset=10 EndLineNumber=7 EndCharacterOffset=21)" />
+    <Node Id="(@1 @3 Type=SECSEncoder)" Category="CodeSchema_Class" Bounds="0,0,136.183333333333,25" CodeSchemaProperty_IsInternal="True" CommonLabel="SECSEncoder" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSEncoder" SourceLocation="(Assembly=&quot;file:///E:/Coding/JSecs/JSecs/E5/SECSEncoder .cs&quot; StartLineNumber=7 StartCharacterOffset=10 EndLineNumber=7 EndCharacterOffset=21)" />
+    <Node Id="(@1 @3 Type=SECSItem)" Category="CodeSchema_Class" Bounds="0,0,115.526666666667,25" CodeSchemaProperty_IsAbstract="True" CodeSchemaProperty_IsPublic="True" CommonLabel="SECSItem" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSItem" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/SECSItem.cs StartLineNumber=6 StartCharacterOffset=26 EndLineNumber=6 EndCharacterOffset=34)" />
+    <Node Id="(@1 @3 Type=SECSListItem)" Category="CodeSchema_Class" Bounds="0,0,134.9,25" CodeSchemaProperty_IsPublic="True" CommonLabel="SECSListItem" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="SECSListItem" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/SECSItem.cs StartLineNumber=863 StartCharacterOffset=17 EndLineNumber=863 EndCharacterOffset=29)" />
+    <Node Id="(@1 @3 Type=StreamBase)" Category="CodeSchema_Class" Bounds="0,0,128.193333333333,25" CodeSchemaProperty_IsPublic="True" CommonLabel="StreamBase" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="StreamBase" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/StreamBase.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=27)" />
+    <Node Id="(@1 @3 Type=U1)" Category="CodeSchema_Class" Bounds="0,0,76.9966666666667,25" CodeSchemaProperty_IsPublic="True" CommonLabel="U1" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="U1" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/U1.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=U2)" Category="CodeSchema_Class" Bounds="0,0,76.9966666666667,25" CodeSchemaProperty_IsPublic="True" CommonLabel="U2" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="U2" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/U2.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=U4)" Category="CodeSchema_Class" Bounds="0,0,76.9966666666667,25" CodeSchemaProperty_IsPublic="True" CommonLabel="U4" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="U4" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/U4.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=U8)" Category="CodeSchema_Class" Bounds="0,0,76.9966666666667,25" CodeSchemaProperty_IsPublic="True" CommonLabel="U8" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="U8" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/U8.cs StartLineNumber=6 StartCharacterOffset=17 EndLineNumber=6 EndCharacterOffset=19)" />
+    <Node Id="(@1 @3 Type=Unicode)" Category="CodeSchema_Class" Bounds="0,0,108.68,25" CodeSchemaProperty_IsInternal="True" CommonLabel="Unicode" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="Unicode" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/E5_Items/Unicode.cs StartLineNumber=6 StartCharacterOffset=10 EndLineNumber=6 EndCharacterOffset=17)" />
+    <Node Id="(@1 @3 Type=ValueBase)" Category="CodeSchema_Class" Bounds="0,0,119.673333333333,25" CodeSchemaProperty_IsAbstract="True" CodeSchemaProperty_IsPublic="True" CommonLabel="ValueBase" DelayedChildNodesState="NotFetched" Group="Collapsed" Icon="CodeSchema_Class" Label="ValueBase" SourceLocation="(Assembly=file:///E:/Coding/JSecs/JSecs/E5/ValueBase.cs StartLineNumber=6 StartCharacterOffset=26 EndLineNumber=6 EndCharacterOffset=35)" />
+    <Node Id="@2" Category="CodeSchema_Assembly" CommonLabel="JSecs.csproj (Debug_AnyCPU)" DelayedChildNodesState="Incomplete" Group="Expanded" Label="JSecs.csproj (Debug_AnyCPU).exe" />
+    <Node Id="@4" Category="CodeSchema_Namespace" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="JSecs.E5" DelayedChildNodesState="Incomplete" Group="Expanded" Label="JSecs.E5" />
+  </Nodes>
+  <Links>
+    <Link Source="@2" Target="@4" Category="Contains" FetchingParent="@2" />
+    <Link Source="@4" Target="(@1 @3 Type=(Name=SECSStreamItem GenericParameterCount=1))" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=(Name=SECSValueItem GenericParameterCount=1))" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=A)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=B)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=Bool)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=F4)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=F8)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=I1)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=I2)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=I4)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=I8)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=JIS)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=L)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=SECSDecoder)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=SECSEncoder)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=SECSItem)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=SECSListItem)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=StreamBase)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=U1)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=U2)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=U4)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=U8)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=Unicode)" Category="Contains" FetchingParent="@4" />
+    <Link Source="@4" Target="(@1 @3 Type=ValueBase)" Category="Contains" FetchingParent="@4" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Assembly" Label="程序集" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="程序集" />
+    <Category Id="CodeSchema_Class" Label="类" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="类" />
+    <Category Id="CodeSchema_Namespace" Label="命名空间" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="命名空间" />
+    <Category Id="CodeSchema_Type" Label="类型" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="类型" />
+    <Category Id="Contains" Label="包含" Description="链接的源是否包含目标对象" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+    <Category Id="File" Label="文件" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="文件" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsAbstract" Label="是抽象的" Description="一个标志，用于指示该成员是“抽象”成员且不提供完整实现" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsInternal" Label="是内部的" Description="一个标志，用于指示该方法是“内部”方法" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="是公共的" Description="一个标志，用于指示该范围是“公共”范围" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="是静态的" Description="一个标志，用于指示该成员是静态成员" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="已虚拟化数据" Description="如果为 true，则图中可以包含表示虚拟化节点/链接(即，不在图中实际创建)的数据的节点和链接。" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="延迟的子节点状态" Description="如果未指定延迟的子节点状态，则为 Unspecified。如果尚未将组包含的子节点提取到关系图中，则为 NotFetched。如果已提取组内的所有延迟的子节点，则为 Fetched。" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="图标" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="起始行号" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="程序集" ValueType="Uri" />
+    <Name Id="GenericParameterCount" Label="泛型形参计数" ValueType="System.String" />
+    <Name Id="Name" Label="名称" ValueType="System.String" />
+    <Name Id="Namespace" Label="命名空间" ValueType="System.String" />
+    <Name Id="Type" Label="类型" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(44d965de-cc38-4b56-8efc-7bc13e23be17.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Id="Namespace=JSecs.E5" />
+    <Alias n="4" Id="(@1 @3)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="结果" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="测试项目" ValueLabel="测试项目">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web 项目" ValueLabel="Web 项目">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows 应用商店项目" ValueLabel="Windows 应用商店项目">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="电话项目" ValueLabel="电话项目">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="可移植库" ValueLabel="可移植库">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF 项目" ValueLabel="WPF 项目">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX 项目" ValueLabel="VSIX 项目">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="建模项目" ValueLabel="建模项目">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="程序集" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="命名空间" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="接口" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="结构" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="枚举" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="委托" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="属性" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="方法" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="事件" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="字段" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out 参数" ValueLabel="具有类别">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="参数" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="局部变量" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="外部" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="继承自" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="实现" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="调用" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="函数指针" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="字段读取" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="字段写入" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="返回" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="引用" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="使用特性" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="解决方案文件夹" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="项目引用" ValueLabel="项目引用">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="外部引用" ValueLabel="外部引用">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="44d965de-cc38-4b56-8efc-7bc13e23be17.OutputPathUri" Value="file:///E:/Coding/JSecs/JSecs/bin/Debug/netcoreapp3.1/JSecs.dll" />
+  </Paths>
+</DirectedGraph>
